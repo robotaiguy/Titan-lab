@@ -15,7 +15,7 @@
 **kernel for each project you work on, so your dependencies**<br>
 **will stay in line.**<br><br>
 **This is running within a Docker container of Ubuntu 22.04**<br>
-**with CUDA 8.1 and CUDNN 8.9. So the file system in this**<br>
+**with CUDA 12.1 and CUDNN 8.9. So the file system in this**<br>
 **sandbox is not the same as the file system for the host**<br>
 **server itself.**<br>
 
